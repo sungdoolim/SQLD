@@ -1,4 +1,4 @@
-package zx9.staris.infoengineer
+package zx9.staris.sqlDeveloper
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 
 import kotlinx.android.synthetic.main.activity_main.*
-import zx9.staris.infoengineer.companion.Companion.backKeyPressedTime
+import zx9.staris.sqlDeveloper.companion.Companion.backKeyPressedTime
 
 class MainActivity : AppCompatActivity() {
     lateinit var toast: Toast

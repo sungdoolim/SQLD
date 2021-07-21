@@ -1,4 +1,4 @@
-package zx9.staris.infoengineer
+package zx9.staris.sqlDeveloper
 
 class companion(){
 

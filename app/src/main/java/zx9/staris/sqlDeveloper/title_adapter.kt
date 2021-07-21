@@ -1,4 +1,4 @@
-package zx9.staris.infoengineer
+package zx9.staris.sqlDeveloper
 
 import android.content.Context
 import android.content.Intent
@@ -10,7 +10,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
-import zx9.staris.infoengineer.companion.Companion.TitleList
+import zx9.staris.sqlDeveloper.companion.Companion.TitleList
 import kotlinx.android.synthetic.main.titleadapter.view.*
 
 

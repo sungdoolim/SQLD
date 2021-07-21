@@ -18,11 +18,13 @@
         android:layout_height="150dp"
         android:background="#FFFFFF"
 
-        android:src="@drawable/infowhalesea"
+        android:src="@drawable/sqld_content"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.428"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-<TextView
+
+    <TextView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:textSize="30dp"
@@ -52,7 +54,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
 
-        android:text="q(≧▽≦q)리뷰는 아기 개발자에게 큰 힘이 됩니다! (*≧~~≦*)"
+        android:text="q(≧▽≦q)\n리뷰는 아기 개발자에게 큰 힘이 됩니다! \n(*≧~~≦*)"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintRight_toLeftOf="@+id/imglogo"
         app:layout_constraintStart_toStartOf="parent"

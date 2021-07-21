@@ -1,4 +1,4 @@
-package zx9.staris.infoengineer
+package zx9.staris.sqlDeveloper
 
 import android.content.Intent
 import android.os.Build
